@@ -47,5 +47,7 @@ If you are interested check my [Website](https://www.janikrabenstein.de)!
 [![](https://img.shields.io/badge/-Discord-2563EB?style=for-the-badge&logoColor=ffffff&logo=discord)](https://discord.gg/MxAkkABMYh)
 
 </div>
+
 <hr/>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/janikrabenstein)
