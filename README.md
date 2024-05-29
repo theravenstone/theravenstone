@@ -50,4 +50,8 @@ If you are interested check my [Website](https://www.janikrabenstein.de)!
 
 <hr/>
 
+<div align="center">
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/janikrabenstein)
+
+</div>
